@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Holberton School"
+=======
+echo "Holberton School is so cool!"
+>>>>>>> 17d0bdb8e4e8cb9f275b6661e1d61f2cf3fd1294
